@@ -1,2 +1,2 @@
-# JavaScript-Fundamentals
-SoftUni Courses, Projects and Homeworks
+# JS Fundamentals
+💻 SoftUni Courses, Projects and Homeworks
