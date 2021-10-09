@@ -1,0 +1,13 @@
+function rounding(num, precision) {
+
+    if (precision >= 15) {
+        precision = 15;
+    }
+
+    let numWithZero = num.toFixed(precision);
+    let finalNum = parseFloat(numWithZero);
+    console.log(finalNum);
+}
+
+rounding(3.1415926535897932384626433832795, 2);
+rounding(10.5, 3);
